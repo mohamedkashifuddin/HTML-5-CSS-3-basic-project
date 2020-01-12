@@ -1,0 +1,21 @@
+body {
+     font-family: Helvetica Neue ,Arial;
+     font-size: 18px;
+}
+
+h1,h2 {
+    color: green;
+   
+        
+}
+h1 {
+    font-size: 40 px;
+}
+h2 {
+    font-size: 20 px;   
+}
+p {
+   
+    text-align: justify;
+
+}
