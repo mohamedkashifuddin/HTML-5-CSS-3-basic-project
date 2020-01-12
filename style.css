@@ -19,3 +19,9 @@ p {
     text-align: justify;
 
 }
+.main-text{
+    text-align: justify;
+}
+#author-text{
+    font-size:30px;
+}
