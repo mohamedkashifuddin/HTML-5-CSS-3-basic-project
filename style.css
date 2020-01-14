@@ -47,6 +47,7 @@ h2 {
     width: 75%;   
     float: left;
     padding: 30px;
+    position: relative;
     
 }
 
@@ -75,4 +76,7 @@ h2 {
 .Blog-post img {
     height: 150px;
     width:auto;
+}
+.date{
+    position: absolute;
 }
